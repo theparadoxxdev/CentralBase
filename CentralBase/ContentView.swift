@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  CentralBase
 //
-//  Created by Nicholas Peters on 8/27/23.
+//  Created by Holly Peters on 8/27/23.
 //
 
 import SwiftUI
@@ -10,10 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Welcome to CentralBase!")
         }
         .padding()
     }
